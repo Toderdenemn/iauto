@@ -4,7 +4,7 @@ import styles from "./styles.module.css";
 
 const FeatureList = [
   {
-    title: "Comming soon...",
+    title: "Тун удахгүй...",
     Svg: require("./Asset11.svg").default,
     description: <>Монголын авто сэлбэгийн хайлтын нэгдсэн систем.</>,
   },

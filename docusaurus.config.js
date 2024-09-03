@@ -10,7 +10,7 @@ import { themes as prismThemes } from "prism-react-renderer";
 const config = {
   title: "iAuto.mn",
   tagline: "Монголын авто сэлбэгийн нэгдсэн хайлтийн систем",
-  favicon: "img/favicon.ico",
+  favicon: "img/icon1.svg",
 
   // Set the production url of your site here
   url: "https://your-docusaurus-site.example.com",
